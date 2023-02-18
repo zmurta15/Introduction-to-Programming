@@ -1,0 +1,252 @@
+> nome (maximo 50 caracteres): password (entre 3 e 5 caracteres - digitos e letras): Registo efetuado.
+> ajuda - Mostra os comandos existentes
+termina - Termina a execucao do programa
+regista - Regista um novo utilizador no programa
+entrada - Permite a entrada ("login") dum utilizador no programa
+> nome (maximo 50 caracteres): password (entre 3 e 5 caracteres - digitos e letras): Registo efetuado.
+> nome (maximo 50 caracteres): password (entre 3 e 5 caracteres - digitos e letras): Registo efetuado.
+> ajuda - Mostra os comandos existentes
+termina - Termina a execucao do programa
+regista - Regista um novo utilizador no programa
+entrada - Permite a entrada ("login") dum utilizador no programa
+> nome (maximo 50 caracteres): password (entre 3 e 5 caracteres - digitos e letras): Registo efetuado.
+> ajuda - Mostra os comandos existentes
+termina - Termina a execucao do programa
+regista - Regista um novo utilizador no programa
+entrada - Permite a entrada ("login") dum utilizador no programa
+> password: fb@fct.unl.pt > Fernanda Maria Barbosa nao tem deslocacoes registadas.
+fb@fct.unl.pt > ajuda - Mostra os comandos existentes
+sai - Termina a sessao deste utilizador no programa
+nova - Regista uma nova deslocacao
+lista - Lista todas ou algumas deslocacoes registadas
+boleia - Regista uma boleia para uma dada deslocacao
+consulta - Lista a informacao de uma dada deslocacao
+remove - Retira uma dada deslocacao
+fb@fct.unl.pt > Deslocacao nao existe.
+fb@fct.unl.pt > Deslocacao nao existe.
+fb@fct.unl.pt > Fernanda Maria Barbosa nao tem deslocacoes registadas.
+fb@fct.unl.pt > Deslocacao nao existe.
+fb@fct.unl.pt > Deslocacao nao existe.
+fb@fct.unl.pt > Deslocacao registada. Obrigado Fernanda Maria Barbosa.
+fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 2
+Boleias registadas: 0
+
+fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 2
+Lugares vagos: 2
+fb@fct.unl.pt > Deslocacao nao existe.
+fb@fct.unl.pt > Deslocacao registada. Obrigado Fernanda Maria Barbosa.
+fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 2
+Lugares vagos: 2
+fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+13-12-2018 15 1.45 1
+Boleias registadas: 0
+
+Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 2
+Boleias registadas: 0
+
+fb@fct.unl.pt > Deslocacao removida.
+fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 2
+Boleias registadas: 0
+
+fb@fct.unl.pt > Deslocacao removida.
+fb@fct.unl.pt > Deslocacao registada. Obrigado Fernanda Maria Barbosa.
+fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 2
+Lugares vagos: 2
+fb@fct.unl.pt > Deslocacao nao existe.
+fb@fct.unl.pt > Deslocacao registada. Obrigado Fernanda Maria Barbosa.
+fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 2
+Lugares vagos: 2
+fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+13-12-2018 15 1.45 1
+Boleias registadas: 0
+
+Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 2
+Boleias registadas: 0
+
+fb@fct.unl.pt > Obrigado. Ate a proxima.
+> nome (maximo 50 caracteres): password (entre 3 e 5 caracteres - digitos e letras): Registo efetuado.
+> password: aa@fct.unl.pt > ajuda - Mostra os comandos existentes
+sai - Termina a sessao deste utilizador no programa
+nova - Regista uma nova deslocacao
+lista - Lista todas ou algumas deslocacoes registadas
+boleia - Regista uma boleia para uma dada deslocacao
+consulta - Lista a informacao de uma dada deslocacao
+remove - Retira uma dada deslocacao
+aa@fct.unl.pt > Caloiro 1 nao tem deslocacoes registadas.
+aa@fct.unl.pt > Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 2
+Lugares vagos: 2
+aa@fct.unl.pt > Lisboa
+Alvalade do Sado
+13-12-2018 15 1.45 1
+Lugares vagos: 1
+aa@fct.unl.pt > Boleia registada.
+aa@fct.unl.pt > Lisboa
+Alvalade do Sado
+13-12-2018 15 1.45 1
+Lugares vagos: 0
+aa@fct.unl.pt > Boleia registada.
+aa@fct.unl.pt > Deslocacao registada. Obrigado Caloiro 1.
+aa@fct.unl.pt > ajuda - Mostra os comandos existentes
+sai - Termina a sessao deste utilizador no programa
+nova - Regista uma nova deslocacao
+lista - Lista todas ou algumas deslocacoes registadas
+boleia - Regista uma boleia para uma dada deslocacao
+consulta - Lista a informacao de uma dada deslocacao
+remove - Retira uma dada deslocacao
+aa@fct.unl.pt > Deslocacao nao existe.
+aa@fct.unl.pt > Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 5
+Boleias registadas: 0
+
+aa@fct.unl.pt > Deslocacao removida.
+aa@fct.unl.pt > Caloiro 1 nao tem deslocacoes registadas.
+aa@fct.unl.pt > Deslocacao nao existe.
+aa@fct.unl.pt > Caloiro 1 nao existe lugar. Boleia nao registada.
+aa@fct.unl.pt > Lisboa
+Alvalade do Sado
+13-12-2018 15 1.45 1
+Lugares vagos: 0
+aa@fct.unl.pt > Caloiro 1 nao tem deslocacoes registadas.
+aa@fct.unl.pt > Obrigado. Ate a proxima.
+> password: bt@fct.unl.pt > Deslocacao registada. Obrigado Bernardo Toninho.
+bt@fct.unl.pt > Lisboa
+Alvalade do Sado
+13-12-2018 15 1.45 4
+Boleias registadas: 0
+
+bt@fct.unl.pt > Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 2
+Lugares vagos: 1
+bt@fct.unl.pt > Bernardo Toninho nao existe lugar. Boleia nao registada.
+bt@fct.unl.pt > Deslocacao nao existe.
+bt@fct.unl.pt > Deslocacao nao existe.
+bt@fct.unl.pt > Lisboa
+Alvalade do Sado
+13-12-2018 15 1.45 4
+Boleias registadas: 0
+
+bt@fct.unl.pt > Deslocacao registada. Obrigado Bernardo Toninho.
+bt@fct.unl.pt > Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 1
+Lugares vagos: 1
+bt@fct.unl.pt > Bernardo Toninho nao existe lugar. Boleia nao registada.
+bt@fct.unl.pt > Boleia registada.
+bt@fct.unl.pt > Lisboa
+Alvalade do Sado
+13-12-2018 15 1.45 4
+Boleias registadas: 0
+
+Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 1
+Boleias registadas: 0
+
+bt@fct.unl.pt > Obrigado. Ate a proxima.
+> password: fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 1
+Lugares vagos: 1
+fb@fct.unl.pt > Boleia registada.
+fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+13-12-2018 15 1.45 4
+Lugares vagos: 4
+fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+13-12-2018 15 1.45 1
+Boleias registadas: 1
+
+Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 2
+Boleias registadas: 2
+
+fb@fct.unl.pt > Fernanda Maria Barbosa ja nao pode eliminar esta deslocacao.
+fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+13-12-2018 15 1.45 1
+Boleias registadas: 1
+
+Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 2
+Boleias registadas: 2
+
+fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 2
+Lugares vagos: 0
+fb@fct.unl.pt > ajuda - Mostra os comandos existentes
+sai - Termina a sessao deste utilizador no programa
+nova - Regista uma nova deslocacao
+lista - Lista todas ou algumas deslocacoes registadas
+boleia - Regista uma boleia para uma dada deslocacao
+consulta - Lista a informacao de uma dada deslocacao
+remove - Retira uma dada deslocacao
+fb@fct.unl.pt > Deslocacao registada. Obrigado Fernanda Maria Barbosa.
+fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 1
+Lugares vagos: 0
+fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+13-12-2018 15 1.45 4
+Lugares vagos: 4
+fb@fct.unl.pt > Deslocacao registada. Obrigado Fernanda Maria Barbosa.
+fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 2
+Lugares vagos: 0
+fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+13-12-2018 15 1.45 4
+Lugares vagos: 4
+fb@fct.unl.pt > Lisboa
+Alvalade do Sado
+20-1-2018 15 1.45 3
+Boleias registadas: 0
+
+Lisboa
+Alvalade do Sado
+13-4-2018 15 1.45 5
+Boleias registadas: 0
+
+Lisboa
+Alvalade do Sado
+13-12-2018 15 1.45 1
+Boleias registadas: 1
+
+Lisboa
+Alvalade do Sado
+20-12-2018 15 1.45 2
+Boleias registadas: 2
+
+fb@fct.unl.pt > Obrigado. Ate a proxima.
+> ajuda - Mostra os comandos existentes
+termina - Termina a execucao do programa
+regista - Regista um novo utilizador no programa
+entrada - Permite a entrada ("login") dum utilizador no programa
+> Obrigado. Ate a proxima.

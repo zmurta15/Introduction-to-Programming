@@ -1,0 +1,39 @@
+> Comando inexistente.
+> nome (maximo 50 caracteres): password (entre 3 e 5 caracteres - digitos e letras): Registo efetuado.
+> Comando inexistente.
+> Comando inexistente.
+> ajuda - Mostra os comandos existentes
+termina - Termina a execucao do programa
+regista - Regista um novo utilizador no programa
+entrada - Permite a entrada ("login") dum utilizador no programa
+> Comando inexistente.
+> nome (maximo 50 caracteres): password (entre 3 e 5 caracteres - digitos e letras): Registo efetuado.
+> nome (maximo 50 caracteres): password (entre 3 e 5 caracteres - digitos e letras): Registo efetuado.
+> ajuda - Mostra os comandos existentes
+termina - Termina a execucao do programa
+regista - Regista um novo utilizador no programa
+entrada - Permite a entrada ("login") dum utilizador no programa
+> nome (maximo 50 caracteres): password (entre 3 e 5 caracteres - digitos e letras): Registo efetuado.
+> ajuda - Mostra os comandos existentes
+termina - Termina a execucao do programa
+regista - Regista um novo utilizador no programa
+entrada - Permite a entrada ("login") dum utilizador no programa
+> password: fb@fct.unl.pt > ajuda - Mostra os comandos existentes
+sai - Termina a sessao deste utilizador no programa
+nova - Regista uma nova deslocacao
+lista - Lista todas ou algumas deslocacoes registadas
+boleia - Regista uma boleia para uma dada deslocacao
+consulta - Lista a informacao de uma dada deslocacao
+remove - Retira uma dada deslocacao
+fb@fct.unl.pt > Comando inexistente.
+fb@fct.unl.pt > Comando inexistente.
+fb@fct.unl.pt > Comando inexistente.
+fb@fct.unl.pt > Obrigado. Ate a proxima.
+> nome (maximo 50 caracteres): password (entre 3 e 5 caracteres - digitos e letras): Registo efetuado.
+> password: aa@fct.unl.pt > Obrigado. Ate a proxima.
+> ajuda - Mostra os comandos existentes
+termina - Termina a execucao do programa
+regista - Regista um novo utilizador no programa
+entrada - Permite a entrada ("login") dum utilizador no programa
+> Comando inexistente.
+> Obrigado. Ate a proxima.
